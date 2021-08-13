@@ -4,7 +4,8 @@
 
 ## 图书读物
 
-- [育儿的经典读物 -- 父母](https://github.com/JackonYang/parenting/blob/master/articles/classic-books.md)
+- [育儿的经典读物 -- 父母篇](https://github.com/JackonYang/parenting/blob/master/articles/classic-books.md)
+- [有价值的育儿音视频 -- 父母篇](https://github.com/JackonYang/parenting/blob/master/articles/valuable-medias.md)
 
 ## 按时间的计划
 
