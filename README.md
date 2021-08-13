@@ -8,8 +8,8 @@
 
 ## 按时间的计划
 
-- [分娩计划书](https://github.com/JackonYang/parenting/blob/master/plans/01.birth-plans.md)
-- [为新生儿到来做好家里的准备](https://github.com/JackonYang/parenting/blob/master/plans/02.home-upgrade-for-baby.md)
+- [分娩计划书](https://github.com/JackonYang/parenting/blob/master/plans/01-birth-plans.md)
+- [为新生儿到来做好家里的准备](https://github.com/JackonYang/parenting/blob/master/plans/02-home-upgrade-for-baby.md)
 
 
 ## 育儿探索
