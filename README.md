@@ -14,4 +14,4 @@
 
 ## 育儿探索
 
-- 儿童的语言训练 -- TODO
+- [儿童的语言训练](https://github.com/JackonYang/parenting/blob/master/discovery/01-language-traing.md)
