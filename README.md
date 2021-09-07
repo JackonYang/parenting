@@ -10,8 +10,7 @@
 ## 按时间的计划
 
 - [分娩计划书](https://github.com/JackonYang/parenting/blob/master/plans/01-birth-plans.md)
-- [为新生儿到来做好家里的准备](https://github.com/JackonYang/parenting/blob/master/plans/02-home-upgrade-for-baby.md)
-- [新生儿第一个月的计划](https://github.com/JackonYang/parenting/blob/master/plans/03-first-month-plans.md)
+- [新生儿第一个月的计划](https://github.com/JackonYang/parenting/blob/master/plans/02-first-month-plans.md)
 
 ## 育儿探索
 
